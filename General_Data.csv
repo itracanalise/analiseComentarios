@@ -152,7 +152,7 @@
 200,2021-10-20 19:24:31,"Aplicativo péssimo, sistema pior ainda .",1,3.0.0,1
 202,2021-10-20 19:03:25,"Parece que a única forma de recuperação de conta é a exigência de que o usuário entre com o acesso pelo banco credenciado , ou fazer com que tenha de pagar um certificado, já que não é gratuito. Mesmo sabendo o meu login, simplesmente não consigo mais acessar, sem nenhuma explicação! Já tentei de todas as formas recomendadas fazer a recuperação da conta via validação facial, porém, na hora de concluir, o sistema solicita a confirmação do envio de um código que NÃO é recebido pelo celular.",1,3.0.0,2
 203,2021-10-20 18:59:34,Não funciona. Não faz reconhecimento facial,1,3.0.0,1
-204,2021-10-20 18:55:19,"Dou uma estrela porque pode ter um sistema pior. Sistema constantemente indisponível, Captcha irritante e que não funciona adequadamente, quando acessa pelo computador não envia código de confirmação ao app que por sua vez sempre perde as configurações e autenticações salvas. Em resumo, um sistema inútil.",1,3.0.0,77
+204,2021-10-20 18:55:19,"Dou uma estrela porque pode ter um sistema pior. Sistema constantemente indisponível, Captcha irritante e que não funciona adequadamente, quando acessa pelo computador não envia código de confirmação ao app que por sua vez sempre perde as configurações e autenticações salvas. Em resumo, um sistema inútil.",1,3.0.0,78
 205,2021-10-20 18:47:35,Não consigo fazer meu cadastro . Não aparece o botão de cadastrar,1,3.0.0,1
 207,2021-10-20 18:31:48,"Reconhecimento facial não está funcionando, arrumem esse problema, o app não dá outra opção do login.",1,3.0.0,1
 208,2021-10-20 18:20:31,Não funciona,1,3.0.0,1
@@ -288,8 +288,8 @@
 365,2021-10-18 14:07:06,Nao presta como tudo que envolve o governo,1,3.0.0,0
 366,2021-10-18 13:38:01,Não recomendo. Muito burocrático para entrar e pior ainda para ter acesso. Péssimo.,1,3.0.0,0
 367,2021-10-18 13:35:57,Mi284002!,1,3.0.0,0
-368,2021-10-18 13:27:48,está de brincadeira essa maneira de reconhecimento facial,1,3.0.0,0
-369,2021-10-18 13:27:49,Funcionária se não fosse impossível criar uma senha ou recuperá-la. Por ser um aplicativo voltado a todo tipo de público sabendo que muitos tem dificuldade com acesso digital. Falta muito um suporte mais claro no app.,1,3.0.0,0
+368,2021-10-18 13:27:49,Funcionária se não fosse impossível criar uma senha ou recuperá-la. Por ser um aplicativo voltado a todo tipo de público sabendo que muitos tem dificuldade com acesso digital. Falta muito um suporte mais claro no app.,1,3.0.0,0
+369,2021-10-18 13:27:48,está de brincadeira essa maneira de reconhecimento facial,1,3.0.0,0
 371,2021-10-18 13:20:08,"Pior app man, nunca entrei nessa mrd e eles falam q eu tenho conta, tento criar uma mais n da, sinceramente quem baixar vai passar raiva",1,3.0.0,0
 372,2021-10-18 13:17:06,"O meu tá dando senha incorreta, mas não está pois eu uso a senha pra entra no app da carteira de trabalho e está normal! não estou entendendo pois os dois apps usam a mesma senha, mas só está logando em um",1,3.0.0,0
 373,2021-10-18 13:14:58,um dos piores sistema q ja vi na vida. a gente só usa pq é obrigado. tinha q ser desse governo incompetente mald!t0,1,3.0.0,0
@@ -418,7 +418,7 @@
 530,2021-10-15 14:46:15,ótima,1,3.0.0,0
 531,2021-10-15 14:24:49,Péssimo!!!! Após o processo de reconhecimento facial não consigo mais acessar! Da uma mensagem de erro dizendo que não foi possível verificar minhas credenciais e pra eu tentar novamente! Só fica nisso!!!! Não presta!!!,1,3.0.0,0
 532,2021-10-15 14:14:42,"Achei ""Pessimo"" porque gera um milhão de captcha, não reconhece meu facial porque meu celular não é ultima geração, optei por fazer com outros dados - optei por Banco - mas ele não aceita e fica voltando a toda hora pra página inicial e não acata o meu cpf e nem a senha do Banco....desculpa mas é impossível...ontem perdi mais do que 1 hora tentando fazer o bendito cadastro. Nâo tenho print nenhum pra enviar. print da tela nicial que volta a todo momento? não tem o que enviar, simplesmente não me deixa avançar.",1,3.0.0,0
-533,2021-10-15 13:56:04,"Reconhecimento fácil inválido IRRITANTE. Minha conta está criada, porém não consigo usar o aplicativo porque SEMPRE ao LOGAR, ele não me dá outra opção senão fazer o Reconhecimento fácil (que NUNCA dá certo). O aplicativo se tornou INUTIL. Preciso de acesso pelo app, mas ele não me dá opção de nada e volta ao início ao invalidar a biometria facial. IRRITANTE.",1,3.0.0,447
+533,2021-10-15 13:56:04,"Reconhecimento fácil inválido IRRITANTE. Minha conta está criada, porém não consigo usar o aplicativo porque SEMPRE ao LOGAR, ele não me dá outra opção senão fazer o Reconhecimento fácil (que NUNCA dá certo). O aplicativo se tornou INUTIL. Preciso de acesso pelo app, mas ele não me dá opção de nada e volta ao início ao invalidar a biometria facial. IRRITANTE.",1,3.0.0,448
 534,2021-10-15 13:52:22,Até o momento não consegui fazer nada a não ser me extressar não se consegue se cadastra em nenhum momento,1,3.0.0,0
 536,2021-10-15 13:37:40,ótimo,1,3.0.0,0
 537,2021-10-15 13:33:51,Não consigo recuperar a senha.,1,2.2.0,0
@@ -746,7 +746,7 @@
 931,2021-10-08 21:22:47,"Preciso entrar no site gov.br pra validar minha inscrição pro ENADE, mas o app não consegue ler o QR code. Ou melhor, lê e volta para a tela inicial, não acontece nada. Tentei só fazer minha conta pelo app e na hora de fazer o reconhecimento facial, volta pra tela inicial de novo...",1,3.0.0,0
 932,2021-10-08 21:07:39,Muito complicado recuperar senha,1,3.0.0,0
 933,2021-10-08 20:40:24,"PESSIMO app, demora uma Eternidade para enviar o codigo de acesso, aí quando chega que é horas depois, a sessão já está encerrada. Lixo de app, ou vocês arrumam esse bug do codigo ou colocam outro meio de acessar essa porc.... de app.",1,3.0.0,0
-934,2021-10-08 19:51:25,"Horrível, aplicativo que ao invés de agilizar e facilitar os meios de acesso, faz é dificultar/negar o acesso! Não funciona o reconhecimento facial e muito menos o login através de conta em algum banco credenciado no App. Outro ponto é que nao tem nenhum telefone de contato para esclarecer ou sanar esses erros. App criado para facilitar o dia a dia, mas infelizmente só esta ocupando espaço na memoria do meu celular.",1,3.0.0,360
+934,2021-10-08 19:51:25,"Horrível, aplicativo que ao invés de agilizar e facilitar os meios de acesso, faz é dificultar/negar o acesso! Não funciona o reconhecimento facial e muito menos o login através de conta em algum banco credenciado no App. Outro ponto é que nao tem nenhum telefone de contato para esclarecer ou sanar esses erros. App criado para facilitar o dia a dia, mas infelizmente só esta ocupando espaço na memoria do meu celular.",1,3.0.0,361
 936,2021-10-08 18:52:25,Queria saber como faço pra desbloquear meu cadastro que nem sei pq bloqueou,1,3.0.0,0
 937,2021-10-08 18:47:03,Reconhecimento facial não funciona,1,3.0.0,0
 938,2021-10-08 18:37:41,"Não reconhece o rosto de forma alguma e não adianta copiar e colar resposta pronta porque minha foto está atual tanto no Detran, título de eleitor, RG... Não te direciona para um email de atendimento para resolver, um lixo...",1,3.0.0,0
@@ -986,8 +986,8 @@
 1224,2021-10-04 17:07:20,não sei,1,3.0.0,0
 1225,2021-10-04 17:05:17,Estou a mais de 6 horas tentando fazer o reconhecimento facial e so da erro 😱,1,3.0.0,0
 1227,2021-10-04 16:58:38,PÉSSIMO,1,3.0.0,0
-1228,2021-10-04 16:22:03,Nao rezove nada,1,3.0.0,0
-1229,2021-10-04 16:22:04,"muita burocracia, complicadíssimo ...",1,3.0.0,0
+1228,2021-10-04 16:22:04,"muita burocracia, complicadíssimo ...",1,3.0.0,0
+1229,2021-10-04 16:22:03,Nao rezove nada,1,3.0.0,0
 1231,2021-10-04 15:53:17,"Aplicativo ruim, eu pedi pra recuperar a senha por e-mail mas não chega nada",1,3.0.0,0
 1232,2021-10-04 15:47:19,"Cometi um dos grandes erros de 2021: permitir a verificação em duas etapas. Após inserir a senha, fico esperando pelo código de acesso enviado para o meu telefone... QUE NUNCA CHEGA!",1,3.0.0,0
 1233,2021-10-04 15:42:17,"Ok ... antes de instalar o app gov.br eu acessava perfeitamente o app carteira de trabalho digital... agora não está funcionando. Todos os meus dados de onde eu trabalhava já não aparece mais. Apareceu poucas informações nesse app gov.br ...e tem mais erros ... Ao tirar a foto para deixar de ser bronze pra ser ouro, app não reconhece.",1,3.0.0,16
@@ -19756,8 +19756,8 @@
 1632,2021-10-06 16:55:59,Muito bom 👍🏼,5,3.0.0,0
 1633,2021-10-06 16:55:30,prático,5,3.0.0,0
 1634,2021-10-06 16:54:05,muito bom,5,3.0.0,0
-1635,2021-10-06 16:52:57,Muito bom,5,3.0.0,0
-1636,2021-10-06 16:52:57,bom,5,3.0.0,0
+1635,2021-10-06 16:52:57,bom,5,3.0.0,0
+1636,2021-10-06 16:52:57,Muito bom,5,3.0.0,0
 1637,2021-10-06 16:50:28,muito bom atendimento,5,3.0.0,0
 1638,2021-10-06 16:50:27,o tomo,5,3.0.0,0
 1639,2021-10-06 16:47:40,Ótima App,5,3.0.0,0

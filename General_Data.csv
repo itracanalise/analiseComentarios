@@ -170,7 +170,7 @@
 223,2021-10-20 22:07:43,Não faz conta não é bom e ruim .,1,3.0.0,0
 224,2021-10-20 22:05:27,"Reconhecimento fácil muito difícil, e é preciso e importante, como vou conseguir",1,3.0.0,0
 225,2021-10-20 21:57:03,Envio de sms bugado,1,3.0.0,0
-226,2021-10-20 21:54:39,"Complexo demais, se for um idoso não consegue usar o app. Os desenvolvedores devem melhorar a qualidade de vida de idosos e, não piorar. Não consegui realizar a validação facial dos meus pais, o que facilitaria muito na prova de vida. ""Vira pra lá, vira pra cá, sorria, pisque o olho"". Presado, me poupe, basta o rosto do idoso com o jornal do dia mostrando a data e pronto! Agente tem que acreditar mais nas pessoas.",1,3.0.0,49
+226,2021-10-20 21:54:39,"Complexo demais, se for um idoso não consegue usar o app. Os desenvolvedores devem melhorar a qualidade de vida de idosos e, não piorar. Não consegui realizar a validação facial dos meus pais, o que facilitaria muito na prova de vida. ""Vira pra lá, vira pra cá, sorria, pisque o olho"". Presado, me poupe, basta o rosto do idoso com o jornal do dia mostrando a data e pronto! Agente tem que acreditar mais nas pessoas.",1,3.0.0,50
 227,2021-10-20 21:51:19,"Três dias tentando fazer o reconhecimento facial todos os dias duas horas, quando consegui avancar o servico estava indisponível. De todos os aplicativos que ja baixei na vida esse é disparado o pior de todos.",1,3.0.0,0
 228,2021-10-20 21:48:31,"Gostei do App porém a partir que perde o acesso quando habilitado o autenticação de dois fatores é muito difícil recuperar o acesso ao Gov.br, tem opção porém muito trabalhosa por se tratar de ter que comparecer a uma agência física. Sendo que o App é uma tentativa de digitalizarar id do cidadão no Brasil ou muito custosa se for por assinatura digital.",1,3.0.0,0
 229,2021-10-20 21:36:47,"horrível, horrível, horroroso. Me faz mal meu bem, ME FAZ MAL.",1,3.0.0,0
@@ -451,7 +451,7 @@
 571,2021-10-15 14:46:15,ótima,1,3.0.0,0
 572,2021-10-15 14:24:49,Péssimo!!!! Após o processo de reconhecimento facial não consigo mais acessar! Da uma mensagem de erro dizendo que não foi possível verificar minhas credenciais e pra eu tentar novamente! Só fica nisso!!!! Não presta!!!,1,3.0.0,0
 573,2021-10-15 14:14:42,"Achei ""Pessimo"" porque gera um milhão de captcha, não reconhece meu facial porque meu celular não é ultima geração, optei por fazer com outros dados - optei por Banco - mas ele não aceita e fica voltando a toda hora pra página inicial e não acata o meu cpf e nem a senha do Banco....desculpa mas é impossível...ontem perdi mais do que 1 hora tentando fazer o bendito cadastro. Nâo tenho print nenhum pra enviar. print da tela nicial que volta a todo momento? não tem o que enviar, simplesmente não me deixa avançar.",1,3.0.0,0
-574,2021-10-15 13:56:04,"Reconhecimento fácil inválido IRRITANTE. Minha conta está criada, porém não consigo usar o aplicativo porque SEMPRE ao LOGAR, ele não me dá outra opção senão fazer o Reconhecimento fácil (que NUNCA dá certo). O aplicativo se tornou INUTIL. Preciso de acesso pelo app, mas ele não me dá opção de nada e volta ao início ao invalidar a biometria facial. IRRITANTE.",1,3.0.0,487
+574,2021-10-15 13:56:04,"Reconhecimento fácil inválido IRRITANTE. Minha conta está criada, porém não consigo usar o aplicativo porque SEMPRE ao LOGAR, ele não me dá outra opção senão fazer o Reconhecimento fácil (que NUNCA dá certo). O aplicativo se tornou INUTIL. Preciso de acesso pelo app, mas ele não me dá opção de nada e volta ao início ao invalidar a biometria facial. IRRITANTE.",1,3.0.0,488
 575,2021-10-15 13:52:22,Até o momento não consegui fazer nada a não ser me extressar não se consegue se cadastra em nenhum momento,1,3.0.0,0
 577,2021-10-15 13:37:40,ótimo,1,3.0.0,0
 578,2021-10-15 13:33:51,Não consigo recuperar a senha.,1,2.2.0,0
@@ -19826,8 +19826,8 @@
 1690,2021-10-06 16:55:59,Muito bom 👍🏼,5,3.0.0,0
 1691,2021-10-06 16:55:30,prático,5,3.0.0,0
 1692,2021-10-06 16:54:05,muito bom,5,3.0.0,0
-1693,2021-10-06 16:52:57,Muito bom,5,3.0.0,0
-1694,2021-10-06 16:52:57,bom,5,3.0.0,0
+1693,2021-10-06 16:52:57,bom,5,3.0.0,0
+1694,2021-10-06 16:52:57,Muito bom,5,3.0.0,0
 1695,2021-10-06 16:50:28,muito bom atendimento,5,3.0.0,0
 1696,2021-10-06 16:50:27,o tomo,5,3.0.0,0
 1697,2021-10-06 16:47:40,Ótima App,5,3.0.0,0
